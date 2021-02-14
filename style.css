@@ -1,6 +1,6 @@
 div#page {
    margin: 0 auto;
-   padding 0;
+   padding: 0;
 }
 
 div#header {
@@ -15,11 +15,11 @@ div#header {
 }
 
 #headline1 {
-   font-family: font-family: 'Abril Fatface', cursive;
+   font-family: 'Abril Fatface', cursive;
    font-size: 40px;
    font-weight: 900;
    color: #202020;
-   padDing: 0;
+   padding: 0;
    margin: 0;
    letter-spacing: -1px;
    position: absolute;
@@ -28,7 +28,7 @@ div#header {
 }
 
 #headline2 {
-   font-family: font-family: 'Abril Fatface', cursive;
+   font-family: 'Abril Fatface', cursive;
    font-size: 80px;
    font-weight: 900;
    color: #202020;
@@ -102,7 +102,7 @@ ul {
 .idezet_content::before {
    position: absolute;
    content: '”';
-   font-family: font-family: 'Abril Fatface', cursive;
+   font-family: 'Abril Fatface', cursive;
    font-size: 90px;
    top: -38px;
    left: -28px;
@@ -111,7 +111,7 @@ ul {
 
 .idezet_content {
    position: relative;
-   font-family: font-family: 'Abril Fatface', cursive;
+   font-family: 'Abril Fatface', cursive;
    font-size: 60px;
    font-weight: 900;
    letter-spacing: -1px;
